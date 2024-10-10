@@ -1,0 +1,49 @@
+body {
+    background-color:aquamarine; /*background-image: url();*/
+    font: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#principal{
+    width: 100%;
+    opacity: 1;
+    
+    #menu{
+        background-color:blueviolet;
+        padding: 18px;
+        border: 10px solid #7524BF;
+    
+        a {
+            color: black;
+            text-decoration: none;
+            font-weight:bold;
+            padding: 15px;
+            font-size: large;
+    
+        }
+        
+    }
+    
+    #conteudo{
+
+        
+        #fundo{     
+            
+            background-position: center;
+            background-color:lightsalmon;
+            border: 8px groove white;
+            padding: 18px;
+            /*height:100%;*/
+            h1 {
+                color:rgb(0, 0, 0);
+                padding: 15px;
+                font-size: 50px;
+                
+        
+            }
+
+            
+        } 
+        
+        
+    }     
+}
